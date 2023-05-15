@@ -1,3 +1,5 @@
+[![Java CI with Gradle](https://github.com/vasilios-k/Rezept-Manager-Backend/actions/workflows/gradle.yml/badge.svg)](https://github.com/vasilios-k/Rezept-Manager-Backend/actions/workflows/gradle.yml)
+
 # Rezept-Manager-Backend
 Ein Rezeptmanager zum erstellen und suchen von Rezepten
 
